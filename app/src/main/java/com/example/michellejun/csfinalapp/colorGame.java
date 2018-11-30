@@ -16,4 +16,5 @@ public class colorGame extends AppCompatActivity {
         Palette p = Palette.from(bitmap).generate();
         return p;
     }
+    //push
 }
